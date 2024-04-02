@@ -1,3 +1,3 @@
 export function get() {
-  return { hello: 'world' } as const
+  return { hello: 'world' }
 }
